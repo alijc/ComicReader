@@ -86,9 +86,9 @@
     {"class":"IrregularWebComic", "name":"Irregular Web Comic", "pref":"irregularWebComicPref"},
     {"class":"PbfComics", "name":"PBF Comics", "pref":"pbfComicsPref"},
     {"class":"AgentXComics", "name":"Agent X Comics", "pref":"agentXComicsPref"},
-    {"class":"FastTrack", "name":"Fast Track", "pref":"fasttrackPref"},
-    {"class":"SafeHavens", "name":"Safe Havens", "pref":"safeHavensPref"},
 
+    {"class":"DailyKingFeatures.FastTrack", "name":"Fast Track", "pref":"fasttrackPref"},
+    {"class":"DailyKingFeatures.SafeHavens", "name":"Safe Havens", "pref":"safeHavensPref"},
     {"class":"DailyKingFeatures.Zits", "name":"Zits", "pref":"zitsComicsPref"},
     {"class":"DailyKingFeatures.BeetleBailey", "name":"Beetle Bailey", "pref":"beetleBaileyComicsPref"},
     {"class":"DailyKingFeatures.BrilliantMindOfEdisonLee", "name":"Brilliant Mind Of Edison Lee", "pref":"edisonLeeComicsPref"},
