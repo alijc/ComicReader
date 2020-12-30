@@ -8,3 +8,4 @@ target/
 *.prefs
 .idea/
 *.iml
+*~
